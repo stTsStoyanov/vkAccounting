@@ -1,0 +1,92 @@
+#contacts .container{
+    display: flex;
+    flex-direction: column;
+}
+.contactsOne {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+    border-bottom: 2px solid black;
+}
+
+.contactsOne img {
+    width: 110%;
+    height: 110%;
+}
+.contactsOne div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    font-family: proba;
+    font-weight: bold;
+    width: 45%;
+    
+}
+.contactsOneInfo{
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+
+
+
+
+.contactsTwo{
+    display: flex;
+    gap: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+    border-bottom: 2px solid black;
+}
+
+.contactsTwoLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45%;
+    height: 35%;
+}
+.contactsTwoLogo img{
+    width: 55%;
+    height: 55%;
+}
+
+.contactsTwoInfoParent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+}
+.contactsTwoInfoParent div{
+    margin-bottom: 1%;
+}
+.contactsTwoInfoEmail{
+    padding-left: 13%;
+}
+
+.googleMapsLocation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+
+}
+

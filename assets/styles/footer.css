@@ -1,0 +1,14 @@
+.footerDesign {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(41, 39, 39);
+    margin-top: 1%
+}
+
+.footerDesign div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 1%;
+}

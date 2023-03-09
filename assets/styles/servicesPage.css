@@ -1,0 +1,50 @@
+
+#services .container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+}
+
+#services .container .list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: proba;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-bottom: 1%;
+}
+
+#services .container h1 {
+    font-size: 24px;
+
+}
+
+.list li {
+    font-size: 20px;
+}
+
+/* .list li ::marker{ */
+/* font-size: 20px; */
+/* display: list-item; */
+/* line-height: 1.4; */
+
+/* } */
+
+
+/* li {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+} */
